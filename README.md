@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Jide Faleye, I am data scientist
+- 👋 Hi, My name is Jide Faleye, I am a data scientist and software engineer
 - 🌱 I’m currently exploring HTML and Flask for web development to consolidate my learning and harness my skills.
 - 💞️ I’m looking to collaborate on project project not limited to finance and health.
 - 📫 How to reach me ...
