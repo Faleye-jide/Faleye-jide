@@ -1,4 +1,5 @@
-- 👋 Hi,I am Jide Faleye, I am a data scientist and software engineer. I am very passionate about data science, data analytics and machine learning.
+ Hi,I'm Jide👋
+ I am a data scientist and software engineer.
 - 🌱 I’m currently exploring Flask and Javascript.
 - 💞️ I’m looking to collaborate on project not limited to finance and health.
 - 📫 How to reach me:
