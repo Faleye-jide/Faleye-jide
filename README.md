@@ -1,4 +1,4 @@
- Hi,I'm Jide👋
+ Hi, I'm Jide👋
  I am a data scientist and software engineer.
 - 🌱 I’m currently exploring Flask and Javascript.
 - 💞️ I’m looking to collaborate on project not limited to finance and health.
