@@ -1,5 +1,5 @@
  Hi, I'm Jide👋
- I am a Data Scientist and Software Engineer.
+ I am a Data Scientist and Software Engineering enthusiast
 - 🌱 I’m currently exploring Django and JavaScript.
 - 💞️ I’m looking to collaborate on project not limited to finance and health.
 - 📫 How to reach me:
