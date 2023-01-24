@@ -1,7 +1,7 @@
  Hi, I'm Jide👋
- I am a Data Scientist and Software Engineering enthusiast
-- 🌱 I’m currently exploring Django and JavaScript.
-- 💞️ I’m looking to collaborate on project not limited to finance and health.
+ I am a Data Scientist and Software Engineering with an extensive experience in using Python for building machine learning and web applications
+- 🌱 I’m currently exploring Java.
+- 💞️ I’m looking to collaborate on exciting project not limited to finance and health industry.
 - 📫 How to reach me:
 Faleyejide@gmail.com or via Linkeldn 
 - Fun fact: I love football and learning new technologies 
