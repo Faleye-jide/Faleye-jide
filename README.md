@@ -1,5 +1,5 @@
  Hi, I'm Jide👋
- I am a Data Scientist and Software Engineering with an extensive experience in using Python for building machine learning and web applications
+ I am a Data Scientist and Software Engineering with extensive experience in using Python for building machine learning and web applications
 - 🌱 I’m currently exploring Java.
 - 💞️ I’m looking to collaborate on exciting project not limited to finance and health industry.
 - 📫 How to reach me:
