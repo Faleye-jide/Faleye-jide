@@ -3,7 +3,7 @@
 - 🌱 I’m currently exploring Java.
 - 💞️ I’m looking to collaborate on exciting project not limited to finance and health industry.
 - 📫 How to reach me:
-Faleyejide@gmail.com or via Linkeldn:linkedin.com/in/jide-faleye/
+Faleyejide@gmail.com or via Linkeldn: jide-faleye
 - Fun fact: I love football and learning new technologies 
 <!---
 Faleye-jide/Faleye-jide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
