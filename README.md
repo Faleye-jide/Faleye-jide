@@ -1,6 +1,6 @@
  Hi, I'm Jide👋
- I am a Data Scientist and Software Engineer with extensive experience in using Python for building machine learning and web applications
-- 🌱 I’m currently exploring Java.
+ I am a full stack Data Scientist and Software Engineer with extensive experience in using Python for building machine learning and web applications
+- 🌱 I’m currently exploring JavaScript to developing my frontend skills.
 - 💞️ I’m looking to collaborate on exciting project not limited to finance and health industry.
 - 📫 How to reach me:
 Faleyejide@gmail.com or via Linkeldn: jide-faleye
