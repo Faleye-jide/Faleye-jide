@@ -3,7 +3,7 @@
 - 🌱 I’m currently exploring JavaScript to develop my frontend skills.
 - 💞️ I’m looking to collaborate on exciting and challenging projects not limited to finance and health industry.
 - 📫 How to reach me:
-Faleyejide@gmail.com or via Linkeldn: jide-faleye
+Faleyejide@gmail.com or via Linkeldn: Jide Faleye
 - Fun fact: I love football and learning new technologies 
 <!---
 Faleye-jide/Faleye-jide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
